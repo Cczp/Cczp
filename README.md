@@ -38,45 +38,14 @@ AI + Cocos 游戏前端开发工程师，现居广州，求职方向为广州地
 
 ## 重点项目能力
 
-### Cocos 游戏前端：线下拉霸机 + 炮台打动物游戏
-
-- 面向 Android 机台运行，不是普通 H5 小游戏，涉及 Cocos 前端与 Android 原生层协作。
-- 负责游戏 UI、拉霸玩法、打动物玩法、资源预加载、音效、弹窗和后台运维界面等前端逻辑。
-- 使用 WebSocket + Protobuf 对接后端协议，处理登录、心跳、重连、房间切换、游戏结果和配置下发。
-- 对接 Android JSB 能力，包括设备信息、本地配置、存储权限、APK 更新、串口 / UDP / 热点等机台相关能力。
-
-### Vue 移动端 Web：交易所
-
-- 基于 Vue 3 + Vite + Vant 开发移动端业务页面。
-- 覆盖登录注册、市场行情、资产、充值提现、C2C、广告、订单、活动、公告、多语言等模块。
-- 使用 Axios、路由守卫、全局状态、移动端 rem 适配和接口代理完成移动端交付。
-
-### uni-app 小程序：积分商城
-
-- 基于 uni-app + Vue 3 + Pinia 开发积分商城类项目。
-- 覆盖首页、分类、购物车、我的、商品详情、订单、优惠券、收货地址、支付等业务流程。
-- 支持多端构建能力，包含微信小程序、H5 以及其他小程序平台构建配置。
-
-### AI 全栈开发：拉霸机游戏前后端
-
-- 这是一个 AI 驱动的全栈开发案例：先用 GPT / Codex 分步骤梳理游戏说明、玩法规则、数据结构、协议字段和接口流程，再按文档推进后端与前端开发。
-- 后端基于 AI 生成和迭代的游戏说明文档实现，使用 Go + Gin 提供 HTTP API 和 WebSocket 入口，承接拉霸玩法协议和客户端错误上报。
-- 前端基于同一份说明文档开发，使用 Cocos Creator 2.4.15 + TypeScript 实现拉霸游戏 UI、卷轴滚动、符号展示、按钮交互、中奖表现和资源加载。
-- 前端通过 WebSocket + Protobuf 与后端联调，处理登录、房间进入、开始游戏、开奖结果、余额更新和异常上报。
-- 使用 Redis + PostgreSQL + GORM 做余额、记录和缓存管理，并通过批量刷盘降低高频写入压力。
-- 封装 MQTT 连接、订阅、发布和重连管理，支持服务运行状态检查。
-
-### Unity 游戏项目：208 游戏
-
-- 基于 Unity 5.6.3f1 + C# 开发机台 / 桌台类游戏。
-- 包含登录、Socket 连接、Protobuf 协议、桌台界面、下注展示、倒计时、历史记录等模块。
-- 对接串口通信，处理机台按键采集、跑灯、得分、筹码切换、指令重发和资源关闭。
-
-### Egret H5 游戏：竞猜游戏平台
-
-- 基于 Egret 3.2.6 + TypeScript + EUI 开发 H5 游戏项目。
-- 包含动物园、转盘、西游记、排行榜、活动、任务、支付跳转等多个业务模块。
-- 使用 WebSocket 二进制协议、资源分组加载、主题加载、错误上报和断线重连支撑游戏运行。
+| 项目 | 展示仓库 |
+| --- | --- |
+| **线下拉霸机 + 炮台打动物游戏**<br>Cocos Creator Android 机台游戏前端展示。包含启动链路、模块分层、玩法流转、AI / Codex 使用方式和游戏截图。 | [lbjgame-showcase](https://github.com/Cczp/lbjgame-showcase)<br>`Cocos Creator` `TypeScript` `Android JSB` |
+| **拉霸机游戏前后端**<br>AI 驱动的游戏全栈开发展示。覆盖 AI 生成游戏说明文档、拆解前后端模块、开发 Go 后端和 Cocos 前端、WebSocket + Protobuf 联调。 | [slotgame-fullstack-showcase](https://github.com/Cczp/slotgame-fullstack-showcase)<br>`AI Workflow` `Go` `Cocos` |
+| **积分商城**<br>uni-app / Vue 跨端积分商城项目展示。展示小程序、H5、多端构建、页面结构和状态管理能力。 | [jifenshangcheng-uni-showcase](https://github.com/Cczp/jifenshangcheng-uni-showcase)<br>`uni-app` `Vue 3` `Pinia` |
+| **交易所**<br>Vue 3 移动端 Web 项目展示。展示移动端适配、组件结构、接口封装、图表和测试能力。 | [excmobile-showcase](https://github.com/Cczp/excmobile-showcase)<br>`Vue 3` `Vite` `Vant` |
+| **竞猜游戏平台**<br>Egret H5 游戏前端展示。展示早期 H5 游戏、EUI、Socket、Tween 和资源组织经验。 | [guess-egret-showcase](https://github.com/Cczp/guess-egret-showcase)<br>`Egret` `TypeScript` `EUI` |
+| **208 游戏**<br>Unity 游戏前端展示。展示 Unity UI、场景、Prefab、AssetBundle 和跨引擎经验。 | [208-unity-showcase](https://github.com/Cczp/208-unity-showcase)<br>`Unity` `C#` `AssetBundle` |
 
 ## 正在建设的公开展示内容
 

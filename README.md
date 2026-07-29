@@ -1,15 +1,15 @@
 # 你好，我是程序员小蔡
 
-AI + Cocos 游戏前端开发工程师，现居广州，求职方向为广州地区游戏前端开发岗位。
+AI + Cocos 游戏前端开发工程师，现居广州，求职方向为广州地区游戏前端 / 微信小游戏开发岗位。
 
-我主要做 Cocos Creator 游戏前端开发，也具备 Vue、uni-app 小程序、Go 游戏后端、Egret、Unity 项目经验。日常开发中会结合 GPT / Codex 做需求拆解、代码实现、问题排查和文档整理，提升工程交付效率。
+我主要做 Cocos Creator 游戏前端开发，包含 Android 机台游戏、微信小游戏适配、玩法逻辑、UI 交互、资源管理和构建发布。也具备 Vue、uni-app 小程序、Go 游戏后端、Egret、Unity 项目经验。日常开发中会结合 GPT / Codex 做需求拆解、代码实现、问题排查和文档整理，提升工程交付效率。
 
 ## 关于我
 
 - 求职定位：AI + Cocos 游戏前端开发工程师
-- 核心方向：Cocos Creator 游戏前端、TypeScript / JavaScript、AI 辅助开发
-- 主要经验：游戏前端开发，包含 UI 交互、玩法逻辑、资源管理、工程构建、接口联调、Android 端对接
-- 扩展能力：Vue 移动端 Web、uni-app 小程序、Go 游戏后端、Unity / Egret 游戏项目
+- 核心方向：Cocos Creator 游戏前端、微信小游戏适配、TypeScript / JavaScript、AI 辅助开发
+- 主要经验：游戏前端开发，包含 UI 交互、玩法逻辑、资源管理、工程构建、接口联调、Android 端对接、微信小游戏构建发布
+- 扩展能力：Vue 移动端 Web、uni-app 小程序、Go 游戏后端、Unity / Egret 游戏项目、Cocos 多平台适配
 - 期望城市：广州
 - 联系邮箱：[507961037@qq.com](mailto:507961037@qq.com)
 
@@ -17,11 +17,11 @@ AI + Cocos 游戏前端开发工程师，现居广州，求职方向为广州地
 
 | 分类 | 技术与能力 |
 | --- | --- |
-| 游戏开发 | Cocos Creator、TypeScript、JavaScript、Unity、Egret |
+| 游戏开发 | Cocos Creator、TypeScript、JavaScript、微信小游戏、微信开发者工具、Unity、Egret |
 | AI 开发 | GPT、Codex、Prompt、AI 辅助需求拆解、游戏说明文档生成、AI 辅助编码、AI 辅助调试 |
 | 前端 / 跨端 | Vue 3、Vite、Vant、uni-app、Pinia、小程序、移动端适配 |
 | 后端协作 | Go、Gin、WebSocket、Protobuf、Redis、PostgreSQL、MQTT |
-| 工程交付 | 私有项目脱敏展示、接口联调、构建配置、问题排查、文档沉淀 |
+| 工程交付 | 私有项目脱敏展示、接口联调、构建配置、微信小游戏真机预览、上传审核、问题排查、文档沉淀 |
 
 ## 项目展示
 

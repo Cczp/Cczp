@@ -30,6 +30,7 @@ AI + Cocos 游戏前端开发工程师，现居广州，求职方向为广州地
 | 项目 | 类型 | 技术栈 | 展示重点 |
 | --- | --- | --- | --- |
 | 线下拉霸机 + 炮台打动物游戏 | Cocos Android 机台游戏 | Cocos Creator 2.4.15、TypeScript、Android JSB、WebSocket、Protobuf | 拉霸 + 打动物联合玩法、资源预加载、UI 管理、协议联调、Android 原生能力对接 |
+| 汉堡制作微信小游戏 | Cocos 微信小游戏项目 | Cocos Creator 2.4.15、TypeScript、微信小游戏、微信开发者工具 | Android 机台项目迁移微信小游戏、本地玩法闭环、构建后补丁、真机预览、上传审核流程 |
 | 交易所 | Vue 移动端 Web 项目 | Vue 3、Vite、TypeScript、Vant、Axios、ECharts、vue-i18n | 移动端交易业务页面、登录 / 市场 / 资产 / C2C / 广告等模块、接口代理、多语言和移动端适配 |
 | 积分商城 | uni-app 积分商城小程序 | uni-app、Vue 3、Vite、Pinia、uview-plus、wot-design-uni | 首页、分类、购物车、我的、订单、优惠券、地址、支付等商城业务流程 |
 | 拉霸机游戏前后端 | AI 驱动全栈开发：Cocos 拉霸前端 + Go 游戏后端 | GPT / Codex、Cocos Creator 2.4.15、TypeScript、Go、Gin、WebSocket、Protobuf、Redis、PostgreSQL、MQTT | 先用 AI 逐步生成游戏说明 / 规则 / 接口文档，再按文档开发后端服务和前端游戏 |
@@ -41,6 +42,7 @@ AI + Cocos 游戏前端开发工程师，现居广州，求职方向为广州地
 | 项目 | 展示仓库 |
 | --- | --- |
 | **线下拉霸机 + 炮台打动物游戏**<br>Cocos Creator Android 机台游戏前端展示。包含启动链路、模块分层、玩法流转、AI / Codex 使用方式和游戏截图。 | [lbjgame-showcase](https://github.com/Cczp/lbjgame-showcase)<br>`Cocos Creator` `TypeScript` `Android JSB` |
+| **汉堡制作微信小游戏**<br>Cocos Creator 微信小游戏适配展示。将 Android 机台项目改造成微信小游戏版本，跑通本地玩法闭环、构建后补丁、真机预览、上传和审核流程。 | [pumpkincar-cocos](https://github.com/Cczp/pumpkincar-cocos/tree/pumpkinCar-new-wx)<br>`Cocos Creator` `微信小游戏` `TypeScript` |
 | **拉霸机游戏前后端**<br>AI 驱动的游戏全栈开发展示。覆盖 AI 生成游戏说明文档、拆解前后端模块、开发 Go 后端和 Cocos 前端、WebSocket + Protobuf 联调。 | [slotgame-fullstack-showcase](https://github.com/Cczp/slotgame-fullstack-showcase)<br>`AI Workflow` `Go` `Cocos` |
 | **积分商城**<br>uni-app / Vue 跨端积分商城项目展示。展示小程序、H5、多端构建、页面结构和状态管理能力。 | [jifenshangcheng-uni-showcase](https://github.com/Cczp/jifenshangcheng-uni-showcase)<br>`uni-app` `Vue 3` `Pinia` |
 | **交易所**<br>Vue 3 移动端 Web 项目展示。展示移动端适配、组件结构、接口封装、图表和测试能力。 | [excmobile-showcase](https://github.com/Cczp/excmobile-showcase)<br>`Vue 3` `Vite` `Vant` |
@@ -50,6 +52,7 @@ AI + Cocos 游戏前端开发工程师，现居广州，求职方向为广州地
 ## 正在建设的公开展示内容
 
 - Cocos 项目展示仓库：整理脱敏后的项目背景、模块结构、核心流程和截图 / 动图。
+- 微信小游戏展示：整理 Cocos 多平台适配、微信小游戏构建、真机预览、上传审核和问题复盘。
 - 拉霸机游戏前后端展示仓库：重点展示 AI 如何逐步生成游戏说明文档，再基于文档开发 Go 后端和 Cocos 前端。
 - 跨端项目展示仓库：整理 Vue / uni-app 项目的页面结构、业务流程和接口联调说明。
 
